@@ -2,6 +2,6 @@
 
 This is a short link application created using Meteor and React.
 
-## Authors
+## Author
 
 Rafa Huelin
